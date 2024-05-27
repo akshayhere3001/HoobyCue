@@ -12,4 +12,4 @@ It is a Figma Design, converted to code with the help of react and tailwindcss
 
 ## Screenshot of the Project📸
 
-![Screenshot](public/Screenshot (349).png)
+![Screenshot](public/page.png)
